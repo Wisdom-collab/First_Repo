@@ -16,7 +16,7 @@ B.Sc. in Economics with hands-on experience in research, data interpretation, an
 Data analytics | Business intelligence | Econometrics | Statistical analysis | Open data for Africa
 
 ## **🌐 Let’s Connect**
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)  
+- **GitHub**: [github.com](https://github.com/Wisdom-collab/First_Repo/blob/main/README.md)  
 - **LinkedIn**: [linkedin.com/in/wisdom-nwachukwu-651522228](https://www.linkedin.com/in/wisdom-nwachukwu-651522228)  
 - **Email**: ndwisdom96@gmail.com
 
